@@ -1,4 +1,4 @@
-# React Navigation Bar
+# Navigation Bar
 
 A reusable navigation component built with React featuring a dropdown menu and hover effects.
 
