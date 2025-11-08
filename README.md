@@ -25,5 +25,6 @@ Portions of this code are © freeCodeCamp.org and used under the [BSD 3-Clause L
 ## Credits
 - Starter HTML/CSS by freeCodeCamp  
 - React implementation by Vanessa Popa
-  
+
+## Preview
 ![Navigation Bar Screenshot](https://github.com/user-attachments/assets/aad3c101-a897-4f75-b029-51f9e79ea0f0)
