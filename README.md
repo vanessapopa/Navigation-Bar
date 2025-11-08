@@ -13,15 +13,15 @@ Portions of this code are © freeCodeCamp.org and used under the [BSD 3-Clause L
 - CSS3
 - HTML5
 
-## Installation & Usage
-1. Clone the repository
-2. Run `npx http-server -p 8000`
-3. Open http://localhost:8000
-
 ## Features
 - Responsive navigation menu
 - Dropdown submenu for Apps
 
+## Installation & Usage
+1. Clone the repository
+2. Run `npx http-server -p 8000`
+3. Open http://localhost:8000
+   
 ## Credits
 - Starter HTML/CSS by freeCodeCamp  
 - React implementation by Vanessa Popa
