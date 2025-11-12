@@ -6,7 +6,7 @@ A reusable navigation component built with React featuring a dropdown menu and h
 This project was completed as part of freeCodeCamp's [Full Stack Developer curriculum](https://www.freecodecamp.org/learn/full-stack-developer/),  
 under the **Front end Libraries → React Fundamentals** section (“Build a Reusable Mega Navbar” Workshop). 
 
-The **React component (`index.jsx`)** was coded independently by me, while the **HTML and CSS files** were provided as starter materials by freeCodeCamp.  
+The **React component (`index.jsx`)** was coded independently, while the **HTML and CSS files** were provided as starter materials by freeCodeCamp.  
 Portions of this code are © freeCodeCamp.org and used under the [BSD 3-Clause License](https://github.com/freeCodeCamp/freeCodeCamp/blob/main/LICENSE.md).
 
 ## Technologies
